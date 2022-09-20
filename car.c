@@ -431,7 +431,8 @@ void chassis()
 	glColor3f(0,0.2,0.9);
 
 	rect(p12,q12,r12,s12);
-	rect(p13,q13,r13,s13);								rect(p14,q14,r14,s14);
+	rect(p13,q13,r13,s13);								
+	rect(p14,q14,r14,s14);
 	rect(p15,q15,r15,s15);
 	rect(p16,q16,r16,s16);
 	rect(p17,q17,r17,s17);
